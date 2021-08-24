@@ -20,7 +20,7 @@ import {useHistory, useLocation} from 'react-router-dom'
 const BootcampsPage = () => {
   const useStyles = makeStyles({
     root: {
-      marginTop: 20,
+      marginTop: 21,
     },
     loader: {
       width: " 100%",
